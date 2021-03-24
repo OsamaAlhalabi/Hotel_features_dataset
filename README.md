@@ -5,10 +5,10 @@ A Hotel recommendation dataset, based on TripAdvisor, containing **70K hotel**. 
 2. country
 3. street 
 4. region
-5.rating
-6.reviewsCancel Changes
-7.amenities
-8.room features
+5. rating
+6. reviewsCancel Changes
+7. amenities
+8. room features
 9. room types
 10. price
 11. description
