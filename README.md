@@ -1,12 +1,12 @@
 # Hotel features dataset 2021
 
 A Hotel recommendation dataset, based on TripAdvisor, containing **70K hotel**. For each hotel, we collected the following features:
-1. name
+1. hotel name
 2. country
 3. street 
 4. region
-5. rating
-6. reviewsCancel Changes
+5. star rating
+6. guest rating 
 7. amenities
 8. room features
 9. room types
