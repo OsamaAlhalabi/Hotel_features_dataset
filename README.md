@@ -30,3 +30,7 @@ rating | 5.0
 street | CayIroglu Sk. No:26B Küçük Ayasofya Mahallesi - Fatih
 country |Turkey
 region | Istanbul
+
+
+# Restaurant features dataset 2021
+A small dataset contains about 5000 restaurants with their **features**, you can access it on [kaggle](https://www.kaggle.com/osamaalhalabi/restaurants-features-dataset) website.
