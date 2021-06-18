@@ -16,7 +16,7 @@ A Hotel recommendation dataset, based on TripAdvisor, containing **70K hotel**. 
 You can access the data on [Kaggle website](https://www.kaggle.com/osamaalhalabi/hotels-features-dataset). The use of the data set is restricted to academic research purpose only.
 For direct download click [here](https://www.kaggle.com/osamaalhalabi/hotels-features-dataset/download)
 
-#Sample
+## Sample
 
 Feature | Value
 ------------ | -------------
